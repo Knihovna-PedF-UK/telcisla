@@ -1,0 +1,13 @@
+body{
+  margin:2em auto;
+  max-width: 60ch;
+  font-family: sans-serif;
+}
+
+form{
+  margin:2em auto;
+  background-color: #eee;
+  padding: 3pt;
+}
+
+p {margin-bottom:1em;}
